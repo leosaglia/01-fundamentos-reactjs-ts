@@ -1,0 +1,11 @@
+.Header {
+    display: flex;
+    justify-content: center;
+
+    background: var(--gray-700);
+    height: 12.5rem;
+}
+
+.Header img {
+    width: 7.875rem;
+}
